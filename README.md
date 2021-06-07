@@ -1,0 +1,1 @@
+The goal of this assignment is to create a version of hangman in which games can be loaded and saved. The game is to be written in Ruby and played on the command line. 
